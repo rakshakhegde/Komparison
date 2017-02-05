@@ -4,9 +4,9 @@
 
 Size impact comparison between an APK using Kotlin based library ([LastPagerAdapter](https://github.com/rakshakhegde/LastPagerAdapter/)) vs an APK from off-the-shelf Empty App from Android Studio.
  
- Empty App has no reference to the LastPagerAdapter library or Kotlin.
+ `Empty App` module has no reference to the LastPagerAdapter library or Kotlin.
  
- App has reference to just LastPagerAdapter which in turn refers to Kotlin.
+ `App` module has reference to just LastPagerAdapter which in turn refers to Kotlin.
  
  Here lie the thousand words:
  
