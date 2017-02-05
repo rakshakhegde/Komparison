@@ -8,7 +8,7 @@ Size impact comparison between an APK using Kotlin based library ([LastPagerAdap
  
  `App` module has reference to just LastPagerAdapter which in turn refers to Kotlin.
  
- Here lie the thousand words:
+ Output of APK analyzer => Here lie the thousand words:
  
  <img alt="comparison pic" src="ART/komparison.png" width="400"/>
  
